@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **beginner developer** currently a university studen
 ## 👩‍💻 A bit about me
 
 - 🎓 High school graduate with a strong passion for tech and coding
-- 🏫 Currently studying AI in Technical University Sofia
+- 🏫 Studying AI in Technical University Sofia
 - 🌱 Currently learning and experimenting with:
   - **.NET** & **C#**
   - **JavaScript**

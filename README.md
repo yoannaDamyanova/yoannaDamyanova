@@ -1,10 +1,11 @@
 # 👋 Hey, I'm Yoanna Damyanova!
 
-Welcome to my GitHub! I'm a **beginner developer** currently finishing high school and starting my journey in the world of software development. I'm passionate about learning and building projects that help me grow my skills and turn ideas into real applications.
+Welcome to my GitHub! I'm a **beginner developer** currently a university student and starting my journey in the world of software development. I'm passionate about learning and building projects that help me grow my skills and turn ideas into real applications.
 
 ## 👩‍💻 A bit about me
 
-- 🎓 High school student with a strong passion for tech and coding
+- 🎓 High school graduate with a strong passion for tech and coding
+- 🏫 Currently studying AI in Technical University Sofia
 - 🌱 Currently learning and experimenting with:
   - **.NET** & **C#**
   - **JavaScript**
